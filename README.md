@@ -82,6 +82,13 @@ For your PR to count it must be:
 
 ---
 
+## Credits
+
+   - https://github.com/SR-Sunny-Raj
+
+---
+
+
 ### Connect with me
 
 <p>
@@ -119,3 +126,4 @@ if (isAwesome) {
 ```
 
 ---
+
