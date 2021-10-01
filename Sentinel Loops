@@ -1,0 +1,15 @@
+"""
+Asks the user for a number until they enter -1
+Reports the total value of all the numbers at the end
+"""
+SENTINEL = -1
+def main():
+    num = int(input("Type a number : "))
+    total = 0
+    while num!=SENTINEL:
+        total = total + num
+        num = int(input("Type a number : "))
+    print("total is ", total)
+
+if __name__ == '__main__':
+    main()
