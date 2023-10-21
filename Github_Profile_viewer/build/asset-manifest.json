@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/GitHub_Profile_Viewer/static/css/main.4a2ebb64.chunk.css",
+    "main.js": "/GitHub_Profile_Viewer/static/js/main.bdba8bee.chunk.js",
+    "main.js.map": "/GitHub_Profile_Viewer/static/js/main.bdba8bee.chunk.js.map",
+    "runtime-main.js": "/GitHub_Profile_Viewer/static/js/runtime-main.5b0ece5e.js",
+    "runtime-main.js.map": "/GitHub_Profile_Viewer/static/js/runtime-main.5b0ece5e.js.map",
+    "static/js/2.4df62c86.chunk.js": "/GitHub_Profile_Viewer/static/js/2.4df62c86.chunk.js",
+    "static/js/2.4df62c86.chunk.js.map": "/GitHub_Profile_Viewer/static/js/2.4df62c86.chunk.js.map",
+    "index.html": "/GitHub_Profile_Viewer/index.html",
+    "static/css/main.4a2ebb64.chunk.css.map": "/GitHub_Profile_Viewer/static/css/main.4a2ebb64.chunk.css.map",
+    "static/js/2.4df62c86.chunk.js.LICENSE.txt": "/GitHub_Profile_Viewer/static/js/2.4df62c86.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5b0ece5e.js",
+    "static/js/2.4df62c86.chunk.js",
+    "static/css/main.4a2ebb64.chunk.css",
+    "static/js/main.bdba8bee.chunk.js"
+  ]
+}
